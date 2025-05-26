@@ -1,0 +1,24 @@
+Overview:
+
+This project explores statistical modeling techniques, including three-factor ANOVA and mixed effects models, 
+applied to marketing research and imitation pearls datasets.
+
+Dataset:
+
+The project includes datasets related to marketing research and imitation pearls, focusing on statistical modeling of 
+key influencing factors.
+Dateset link:[https://raw.githubusercontent.com/keijioda/KNNL/main/chap24/CH24PR09.txt]
+
+Statistical Methods:
+-Three-Factor ANOVA: Conditional and averaged interaction plots, Type III tests, and model refinement.
+
+-Model Diagnostics: Residual analysis and assumption checks, including interaction and main effects evaluation.
+
+-Multiple Comparisons: Tukey’s method and Bonferroni correction for pairwise comparisons.
+
+-Mixed Effects Modeling: Fixed and random effects estimation using PROC GLM and PROC GLIMMIX.
+
+-Variance Components Analysis: ML and REML estimation for interaction effects and fixed-factor comparisons.
+
+Reference:
+https://raw.githubusercontent.com/keijioda/KNNL/main/chap24/CH24PR09.txt
