@@ -1,5 +1,28 @@
-readme
-I have made a report based on the observations for the Senic dataset. The code is provided separately. 
+Overview:
+
+I have made a report based on the observations for the Senic dataset. The code and the report are in the project 1 folder.
+
+SENIC Project: Nosocomial Infection Analysis
+
+This study examines hospital-acquired infection rates in U.S. hospitals using data from the SENIC project. Statistical methods are applied to assess geographic and patient-related factors influencing infection risk.
+
+Statistical Methods:
+
+-ANOVA Tests: Comparing mean infection risk across geographic regions and patient age groups.
+
+-Pairwise Comparisons: Tukey procedure and alternative methods for assessing regional differences.
+
+-Residual Analysis & Transformations: Brown-Forsythe test, Box-Cox transformation, and reciprocal transformations for variance stabilization.
+
+-Model Diagnostics: Checking assumptions and refining models for improved fit.
+
+Dataset:
+
+The dataset consists of infection-related data from 113 hospitals across the United States, 
+including patient demographics and hospital attributes.
+
 The dataset can be found in online resources.
+
 Senic dataset reference below:
+
 reference for the dataset-https://www.sciencedirect.com/science/article/abs/pii/S0196655385800109
