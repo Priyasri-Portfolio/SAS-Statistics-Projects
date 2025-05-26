@@ -1,1 +1,23 @@
+Overview
+This project builds a multiple linear regression model to predict the death rate per 1,000 
+residents across 54 cities. The analysis includes regression diagnostics, model refinement, 
+and selection techniques to identify the best predictors.
 
+Dataset: health.csv. The dataset contains health-related statistics from 54 cities, including various predictors 
+
+relevant death rate.
+
+Here is the [link:https://drive.google.com/file/d/1iGwFEyp59d8d-5HVXHmCrCsQTvcUh3PZ/view?usp=sharing]
+
+Statistical Methods:
+
+-Regression Modeling: Fit a multiple linear regression using all available predictors.
+
+-Diagnostics & Assumptions: Residual analysis, normality tests, and transformation techniques if needed.
+
+-Feature Selection: Extra sum of squares principle (Type I and III SS), adjusted 
+𝑅^2, Cp, BIC, and stepwise selection methods.
+
+Model Comparison: Evaluation of different models based on selection criteria.
+
+Final Model Analysis: Multiple and partial correlation/determination coefficients and confidence intervals.
