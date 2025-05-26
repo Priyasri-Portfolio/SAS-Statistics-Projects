@@ -1,0 +1,21 @@
+Overview:
+
+This project analyzes crime rates across 440 U.S. counties, examining how factors like geographic region, 
+poverty level, and age distribution influence crime levels.
+
+Dataset:
+
+The dataset includes demographic and crime-related information from 440 counties in the U.S., covering details like population, poverty rate, 
+unemployment, and education levels.
+Dataset Link:[https://drive.google.com/file/d/1iGwFEyp59d8d-5HVXHmCrCsQTvcUh3PZ/view?usp=sharing]
+
+Statistical Methods:
+
+-ANOVA & Regression: Studying the impact of region and poverty level on crime rate.
+
+-Interaction Effects: Testing how multiple factors interact with each other.
+
+-Model Diagnostics: Checking assumptions, residual analysis, and transformations if needed.
+
+-Final Model Selection: Comparing different models using statistical tests.
+
