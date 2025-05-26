@@ -1,6 +1,5 @@
 Overview:
-This repository contains multiple statistical analysis projects using SAS. Each project includes a dataset, SAS code, 
-and a detailed report explaining the analysis.
+This repository contains multiple statistical analysis projects using SAS. Each project includes a dataset, SAS code, and a detailed report explaining the analysis.
 
 Project Structure:
 Each folder represents a separate project and includes:
@@ -19,3 +18,5 @@ Projects Included:
 -Crime Rate Analysis: ANOVA and regression models studying crime rates in U.S. counties.
 
 -Nosocomial Infection Study: Statistical modeling of hospital-acquired infection rates.
+
+-Marking Research: ANOVA and mixed effects modeling applied to marketing research and imitation pearls datasets.
