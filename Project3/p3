@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This project builds a multiple linear regression model to predict the death rate per 1,000 
 residents across 54 cities. The analysis includes regression diagnostics, model refinement, 
 and selection techniques to identify the best predictors.
@@ -7,7 +8,7 @@ Dataset: health.csv. The dataset contains health-related statistics from 54 citi
 
 relevant death rate.
 
-Here is the [link:https://drive.google.com/file/d/1iGwFEyp59d8d-5HVXHmCrCsQTvcUh3PZ/view?usp=sharing]
+Here is the link for the dataset:[https://drive.google.com/file/d/1iGwFEyp59d8d-5HVXHmCrCsQTvcUh3PZ/view?usp=sharing]
 
 Statistical Methods:
 
